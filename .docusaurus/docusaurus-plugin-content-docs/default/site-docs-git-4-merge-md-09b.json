@@ -1,0 +1,21 @@
+{
+  "id": "git/merge",
+  "title": "Git: Merge vs Rebase — How They Work and Key Differences",
+  "description": "Goal: understand what happens to history, when to use each, and the consequences.",
+  "source": "@site/docs/git/4-merge.md",
+  "sourceDirName": "git",
+  "slug": "/git/merge",
+  "permalink": "/docs/git/merge",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/git/4-merge.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Git Branches: Purpose and Best Practices",
+    "permalink": "/docs/git/branch"
+  }
+}

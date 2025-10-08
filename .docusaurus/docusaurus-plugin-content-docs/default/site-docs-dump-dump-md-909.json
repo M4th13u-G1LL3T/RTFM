@@ -1,0 +1,20 @@
+{
+  "id": "dump/dump",
+  "title": "dump",
+  "description": "<iframe",
+  "source": "@site/docs/dump/dump.md",
+  "sourceDirName": "dump",
+  "slug": "/dump/",
+  "permalink": "/docs/dump/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dump/dump.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WSL Installation",
+    "permalink": "/docs/Dump/WSL-installation"
+  }
+}

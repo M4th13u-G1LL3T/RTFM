@@ -1,0 +1,16 @@
+{
+  "id": "Dump/WSL-installation",
+  "title": "WSL Installation",
+  "description": "Developers can access the power of both Windows and Linux at the same time on a Windows machine. The Windows Subsystem for Linux (WSL) lets developers install a Linux distribution (such as Ubuntu, OpenSUSE, Kali, Debian, Arch Linux, etc) and use Linux applications, utilities, and Bash command-line tools directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup.",
+  "source": "@site/docs/Dump/WSL-installation.md",
+  "sourceDirName": "Dump",
+  "slug": "/Dump/WSL-installation",
+  "permalink": "/docs/Dump/WSL-installation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Dump/WSL-installation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar"
+}

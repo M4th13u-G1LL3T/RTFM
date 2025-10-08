@@ -1,0 +1,24 @@
+{
+  "id": "git/clone",
+  "title": "Clone a Git Repository",
+  "description": "1. What “Cloning” Means",
+  "source": "@site/docs/git/clone.md",
+  "sourceDirName": "git",
+  "slug": "/git/clone",
+  "permalink": "/docs/git/clone",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/git/clone.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Git Branches: Purpose and Best Practices",
+    "permalink": "/docs/git/branch"
+  },
+  "next": {
+    "title": "Basic Git Workflow: Add, Commit, and Push",
+    "permalink": "/docs/git/commit"
+  }
+}

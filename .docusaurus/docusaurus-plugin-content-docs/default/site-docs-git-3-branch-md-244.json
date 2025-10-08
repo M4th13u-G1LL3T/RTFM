@@ -1,0 +1,25 @@
+{
+  "id": "git/branch",
+  "title": "Git Branches: Purpose and Best Practices",
+  "description": "Focus on why to branch. Commands are kept minimal (git checkout, git branch).",
+  "source": "@site/docs/git/3-branch.md",
+  "sourceDirName": "git",
+  "slug": "/git/branch",
+  "permalink": "/docs/git/branch",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/git/3-branch.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basic Git Workflow: Add, Commit, and Push",
+    "permalink": "/docs/git/commit"
+  },
+  "next": {
+    "title": "Git: Merge vs Rebase — How They Work and Key Differences",
+    "permalink": "/docs/git/merge"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "git/ssh-keygen",
+  "title": "Generate an SSH Key and Configure Git",
+  "description": "1. Generate the SSH Key",
+  "source": "@site/docs/git/ssh-keygen.md",
+  "sourceDirName": "git",
+  "slug": "/git/ssh-keygen",
+  "permalink": "/docs/git/ssh-keygen",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/git/ssh-keygen.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Git: Merge vs Rebase — How They Work and Key Differences",
+    "permalink": "/docs/git/merge"
+  }
+}
