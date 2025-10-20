@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'READ THE F***ING DOCS',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
