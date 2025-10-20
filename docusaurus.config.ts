@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'RTFM',
   tagline: 'Read The F***ing Manual',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/Logo.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -63,7 +63,7 @@ const config: Config = {
       title: 'RTFM',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/Logo.png',
       },
       items: [
         {
