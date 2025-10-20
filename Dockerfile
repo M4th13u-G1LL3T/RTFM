@@ -8,11 +8,16 @@ WORKDIR /app
 # Copy package files
 COPY package*.json ./
 
+
+COPY . .
+
+
 # Install dependencies
 RUN npm ci
 
-# Copy source code
-COPY . .
+
+
+
 
 # Build the site
 RUN npm run build
