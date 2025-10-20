@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  docs:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:80"
+    restart: unless-stopped
+    container_name: rtfm-docs
+
+  # Development service (optional)
+  docs-dev:
+    image: node:20-alpine
+    working_dir: /app
+    volumes:
+      - .:/app
+      - /app/node_modules
+    ports:
+      - "3001:3000"
+    command: sh -c "npm install && npm start -- --host 0.0.0.0"
+    container_name: rtfm-docs-dev
+    profiles:
+      - dev
