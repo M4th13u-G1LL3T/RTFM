@@ -6,7 +6,7 @@
 export default {
   "title": "RTFM",
   "tagline": "Read The F***ing Manual",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/Logo.ico",
   "future": {
     "v4": {
       "removeLegacyPostBuildHeadAttribute": true,
@@ -66,7 +66,7 @@ export default {
       "title": "RTFM",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "src": "img/Logo.png"
       },
       "items": [
         {
