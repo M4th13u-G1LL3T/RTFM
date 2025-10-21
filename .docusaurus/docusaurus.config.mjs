@@ -32,7 +32,7 @@ export default {
   "baseUrl": "/",
   "organizationName": "facebook",
   "projectName": "RTFM",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -100,7 +100,7 @@ export default {
           "items": [
             {
               "label": "Discord",
-              "href": "https://discord.gg/489Kagbt3V"
+              "href": "https://discord.gg/ctPRMveA6Y"
             }
           ]
         },

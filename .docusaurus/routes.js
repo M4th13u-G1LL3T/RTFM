@@ -44,19 +44,49 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c4d'),
+    component: ComponentCreator('/docs', '04a'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'c3a'),
+        component: ComponentCreator('/docs', '8c3'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'caf'),
+            component: ComponentCreator('/docs', '240'),
             routes: [
               {
                 path: '/docs/Dump/WSL-installation',
                 component: ComponentCreator('/docs/Dump/WSL-installation', 'ffa'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/git/branch',
+                component: ComponentCreator('/docs/git/branch', '247'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/git/clone',
+                component: ComponentCreator('/docs/git/clone', '4e7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/git/commit',
+                component: ComponentCreator('/docs/git/commit', 'a31'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/git/merge',
+                component: ComponentCreator('/docs/git/merge', '61a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/git/ssh-keygen',
+                component: ComponentCreator('/docs/git/ssh-keygen', 'b78'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

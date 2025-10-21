@@ -14,6 +14,31 @@
               "id": "Dump/WSL-installation",
               "path": "/docs/Dump/WSL-installation",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "git/branch",
+              "path": "/docs/git/branch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "git/clone",
+              "path": "/docs/git/clone",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "git/commit",
+              "path": "/docs/git/commit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "git/merge",
+              "path": "/docs/git/merge",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "git/ssh-keygen",
+              "path": "/docs/git/ssh-keygen",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],

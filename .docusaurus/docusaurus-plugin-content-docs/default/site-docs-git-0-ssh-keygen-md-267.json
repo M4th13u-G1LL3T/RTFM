@@ -15,8 +15,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "dump",
-    "permalink": "/docs/dump/"
+    "title": "WSL Installation",
+    "permalink": "/docs/Dump/WSL-installation"
   },
   "next": {
     "title": "Clone a Git Repository",

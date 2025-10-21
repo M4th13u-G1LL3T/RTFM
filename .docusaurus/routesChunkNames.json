@@ -49,22 +49,42 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-c4d": {
+  "/docs-04a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-c3a": {
+  "/docs-8c3": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-caf": {
+  "/docs-240": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Dump/WSL-installation-ffa": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-dump-wsl-installation-556-03f"
+  },
+  "/docs/git/branch-247": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-git-branch-244-8de"
+  },
+  "/docs/git/clone-4e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-git-cloned-30-575"
+  },
+  "/docs/git/commit-a31": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-git-commitd-30-19a"
+  },
+  "/docs/git/merge-61a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-git-merge-09-b-50a"
+  },
+  "/docs/git/ssh-keygen-b78": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-git-ssh-keygen-267-894"
   },
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",

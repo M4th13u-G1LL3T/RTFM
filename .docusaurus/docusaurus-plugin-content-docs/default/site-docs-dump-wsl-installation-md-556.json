@@ -12,5 +12,9 @@
   "tags": [],
   "version": "current",
   "frontMatter": {},
-  "sidebar": "tutorialSidebar"
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Generate an SSH Key and Configure Git",
+    "permalink": "/docs/git/ssh-keygen"
+  }
 }
